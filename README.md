@@ -54,7 +54,7 @@ Please do not include confidential employer, customer, Jira, Salesforce org, ven
 
 ## Suggested Download Name
 
-Agentic Coding Confidence-Gated Engineering Toolkit
+Agentic Coding Confidence Gated Engineering Toolkit
 
 ## Public-Safe Disclaimer
 
