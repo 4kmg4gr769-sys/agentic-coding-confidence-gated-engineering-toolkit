@@ -1,0 +1,24 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Logs and local output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node dependencies
+node_modules/
+
+# Local generated archives
+*.zip
+
+# Environment/config secrets
+.env
+.env.*
+!.env.example
+
