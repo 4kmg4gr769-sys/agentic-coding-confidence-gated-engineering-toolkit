@@ -1,6 +1,6 @@
 # Agentic Coding Confidence-Gated Engineering Toolkit
 
-Draft public offer for teams exploring confidence-gated AI delivery across requirements, coding agents, sandbox validation, and human-approved promotion.
+Draft public offer for teams exploring confidence gated AI delivery across requirements, coding agents, sandbox validation, and human-approved promotion.
 
 ## What This Is
 
