@@ -1,0 +1,14 @@
+{
+  "name": "agentic-coding-confidence-gated-engineering-toolkit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Starter utilities for confidence gated agentic engineering, including a Salesforce/LWC implementation pack.",
+  "bin": {
+    "sfdx-agentic-toolkit": "./sfdx-agentic-toolkit.js"
+  },
+  "scripts": {
+    "sample:readiness": "node sfdx-agentic-toolkit.js readiness-lint --input sample-issue.json --out sample-readiness-card.md",
+    "sample:tests": "node sfdx-agentic-toolkit.js ac-test-map --input sample-acceptance-criteria.txt --out sample-test-map.md"
+  },
+  "license": "MIT"
+}

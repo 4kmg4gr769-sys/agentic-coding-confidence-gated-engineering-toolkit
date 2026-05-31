@@ -1,0 +1,5 @@
+Show the Renewal Risk banner on Account records when Renewal_Risk_Score__c is greater than or equal to 80.
+Hide the banner when Renewal_Risk_Score__c is blank.
+Only users with the Renewal Risk permission set should see the banner.
+Show an error state if the risk service is unavailable.
+

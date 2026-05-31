@@ -1,0 +1,2 @@
+Issue Key,Title,Assignee,Requirement Clarity (0-5),Acceptance Criteria (0-5),Platform Surface (0-5),Code/Service Impact (0-5),Data Model Clarity (0-5),Permissions/Data Access (0-5),UX States (0-5),Testability (0-5),Release Risk (Low/Medium/High),Confidence (Low/Medium/High),Decision,Top Clarification Questions
+CRM-4821,Renewal Risk Banner,developer@example.com,4,4,5,4,4,3,3,4,Medium,High,Needs Developer Clarification,"Confirm permission set; confirm blank score behavior"
