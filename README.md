@@ -1,14 +1,14 @@
 # Agentic Coding Confidence Gated Engineering Toolkit
 
-Draft public offer for teams exploring confidence gated AI delivery across requirements, coding agents, sandbox validation, and human-approved promotion.
+Draft public offer for teams exploring confidence gated AI delivery across requirements, coding agents, sandbox validation, and human approved promotion.
 
 ## What This Is
 
-A public, vendor-neutral toolkit for designing agent-assisted engineering workflows where AI can score requirements, surface ambiguity, map technical impact, and attempt sandbox validation, while humans remain responsible for product intent, engineering judgment, and release promotion.
+A public, vendor neutral toolkit for designing agent assisted engineering workflows where AI can score requirements, surface ambiguity, map technical impact, and attempt sandbox validation, while humans remain responsible for product intent, engineering judgment, and release promotion.
 
 ## Positioning
 
-The future of engineering is not "AI ships code." It is confidence-gated delivery: agents accelerate the path from requirement to validated implementation, while humans retain judgment, review, and release authority.
+The future of engineering is not "AI ships code." It is confidence gated delivery: agents accelerate the path from requirement to validated implementation, while humans retain judgment, review, and release authority.
 
 This toolkit gives engineering teams a practical model for using agents to:
 
@@ -17,21 +17,21 @@ This toolkit gives engineering teams a practical model for using agents to:
 - ask Product and assigned developers targeted questions
 - map code, platform, permission, integration, and test impacts
 - attempt sandbox builds only when confidence is high enough
-- create developer-ready handoffs
+- create developer ready handoffs
 - preserve human authorization before promotion to the next release region
 
 ## Included Assets
 
-- `CONTRIBUTING.md` - how to provide public-safe feedback
-- `SECURITY.md` - public-data and safety expectations
-- `docs/blueprint.md` - the main public-facing framework
-- `docs/executive-brief.md` - one-page leadership summary
-- `templates/jira-readiness-scorecard.csv` - spreadsheet-ready scoring template
-- `templates/lwc-delivery-checklist.md` - Salesforce/LWC implementation-pack checklist
+- `CONTRIBUTING.md` - how to provide public safe feedback
+- `SECURITY.md` - public data and safety expectations
+- `docs/blueprint.md` - the main public facing framework
+- `docs/executive-brief.md` - one page leadership summary
+- `templates/jira-readiness-scorecard.csv` - spreadsheet ready scoring template
+- `templates/lwc-delivery-checklist.md` - Salesforce/LWC implementation pack checklist
 - `templates/clarification-question-bank.md` - Product and developer question library
 - `templates/prompt-pack.md` - prompts for agentic delivery workflows
-- `templates/region-gate-template.md` - region-by-region authorization template
-- `templates/jira-comment-templates.md` - Jira-ready comments for agent decisions
+- `templates/region-gate-template.md` - region by region authorization template
+- `templates/jira-comment-templates.md` - Jira ready comments for agent decisions
 - `diagrams/workflow-diagrams.md` - Mermaid diagrams for articles, decks, and docs
 - `go-to-market/landing-page-copy.md` - landing page copy for the public download
 - `go-to-market/public-posts.md` - short public post drafts
@@ -44,10 +44,10 @@ This toolkit gives engineering teams a practical model for using agents to:
 
 This is an early draft. Feedback is especially useful on:
 
-- readiness signals that should block or allow agent-assisted builds
+- readiness signals that should block or allow agent assisted builds
 - platform and metadata risks scanners should detect
 - missing Product or developer clarification questions
-- release-region gates that are too strict, too loose, or unrealistic
+- release region gates that are too strict, too loose, or unrealistic
 - ways this could fit with Copado, AutoRABIT, Jira, GitHub, Azure DevOps, or Salesforce
 
 Please do not include confidential employer, customer, Jira, Salesforce org, vendor, or production data in issues, discussions, examples, or pull requests.
@@ -56,14 +56,14 @@ Please do not include confidential employer, customer, Jira, Salesforce org, ven
 
 Agentic Coding Confidence Gated Engineering Toolkit
 
-## Public-Safe Disclaimer
+## Public Safe Disclaimer
 
 This is an independent framework for engineering teams. It is not affiliated with, endorsed by, or based on confidential information from any employer, customer, or vendor.
 
 ## How To Use This Draft
 
 1. Review `docs/blueprint.md` as the core public asset.
-2. Use `docs/executive-brief.md` as the boss-friendly version.
+2. Use `docs/executive-brief.md` as the boss friendly version.
 3. Turn the templates into a downloadable ZIP, Notion template, or Google Sheet companion.
 4. Use the utilities as prototype proof that the framework can become operational.
 5. Publish first on a personal site or GitHub repo, then adapt into Hashnode, DEV, Salesforce ecosystem, or LinkedIn posts.
@@ -79,4 +79,4 @@ node sfdx-agentic-toolkit.js impact-map --repo C:\path\to\salesforce-repo --out 
 node sfdx-agentic-toolkit.js metadata-risk --repo C:\path\to\salesforce-repo --out metadata-risk.md
 ```
 
-The utility is intentionally dependency-free so it can be downloaded, inspected, and adapted quickly.
+The utility is intentionally dependency free so it can be downloaded, inspected, and adapted quickly.

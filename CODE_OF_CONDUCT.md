@@ -1,6 +1,6 @@
 # Code Of Conduct
 
-This project is intended to be a useful, respectful space for people discussing agentic coding, requirements readiness, release management, and confidence-gated engineering workflows.
+This project is intended to be a useful, respectful space for people discussing agentic coding, requirements readiness, release management, and confidence gated engineering workflows.
 
 Please:
 
