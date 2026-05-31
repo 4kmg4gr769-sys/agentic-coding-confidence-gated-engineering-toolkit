@@ -2,6 +2,8 @@
 
 Draft public offer for teams exploring confidence gated AI delivery across requirements, coding agents, sandbox validation, and human approved promotion.
 
+![Abstract confidence gated engineering pipeline](assets/social-preview.png)
+
 ## What This Is
 
 A public, vendor neutral toolkit for designing agent assisted engineering workflows where AI can score requirements, surface ambiguity, map technical impact, and attempt sandbox validation, while humans remain responsible for product intent, engineering judgment, and release promotion.
