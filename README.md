@@ -2,7 +2,7 @@
 
 Draft public offer for teams exploring confidence gated AI delivery across requirements, coding agents, sandbox validation, and human approved promotion.
 
-![Abstract confidence gated engineering pipeline](assets/social-preview.png)
+![Abstract confidence gated engineering pipeline](assets/social-preview-under-1mb.jpg)
 
 ## What This Is
 
